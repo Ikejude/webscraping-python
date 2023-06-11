@@ -1,2 +1,2 @@
 # webscraping-python
-This project contains example of webscraping in python
+This project contains examples of webscraping in python
